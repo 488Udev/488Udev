@@ -1,0 +1,16 @@
+inseert this is just a beginnig and tets message 
+
+;wq
+:wq
+
+:wq
+:qal
+ save it not at all
+
+
+:wq
+:q
+
+
+:q!
+
